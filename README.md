@@ -53,7 +53,7 @@ npm run build
 Start the production server:
 
 ```bash
-npm start
+npm run prod
 ```
 
 ## Lint
